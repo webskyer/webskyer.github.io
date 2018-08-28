@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Webskyer&#39;s Blog</title>
+  
+  <subtitle>Each man is the architect of his own late</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://blog.songwei.cc/"/>
+  <updated>2018-08-28T03:34:57.667Z</updated>
+  <id>http://blog.songwei.cc/</id>
+  
+  <author>
+    <name>webskyer</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>老毛桃U盘启动整合Ubuntu15.04桌面版安装</title>
+    <link href="http://blog.songwei.cc/2015/10/15/%E8%80%81%E6%AF%9B%E6%A1%83U%E7%9B%98%E5%90%AF%E5%8A%A8%E6%95%B4%E5%90%88Ubuntu15-04%E6%A1%8C%E9%9D%A2%E7%89%88%E5%AE%89%E8%A3%85/"/>
+    <id>http://blog.songwei.cc/2015/10/15/老毛桃U盘启动整合Ubuntu15-04桌面版安装/</id>
+    <published>2015-10-15T08:04:17.000Z</published>
+    <updated>2018-08-28T03:34:57.667Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;U盘启动是为了从U盘启动一些备份还原、PE操作系统等软件。现在大部分的电脑都支持U盘启动。在系统崩溃和快速安装系统时能起到很大的作用。Ubuntu的U盘Live系统，即可安装系统，也可以临时使用，比较方便。&lt;/p&gt;
+&lt;h1 id=&quot;U盘启动模式&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="运维" scheme="http://blog.songwei.cc/categories/%E8%BF%90%E7%BB%B4/"/>
+    
+    
+      <category term="Ubuntu" scheme="http://blog.songwei.cc/tags/Ubuntu/"/>
+    
+      <category term="老毛桃" scheme="http://blog.songwei.cc/tags/%E8%80%81%E6%AF%9B%E6%A1%83/"/>
+    
+      <category term="FbinstTool" scheme="http://blog.songwei.cc/tags/FbinstTool/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello Hexo</title>
+    <link href="http://blog.songwei.cc/2015/09/28/Hello-Hexo/"/>
+    <id>http://blog.songwei.cc/2015/09/28/Hello-Hexo/</id>
+    <published>2015-09-28T12:36:06.000Z</published>
+    <updated>2018-08-28T03:34:57.667Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
